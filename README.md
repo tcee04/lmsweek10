@@ -47,7 +47,7 @@ INSERT INTO courses (name) VALUES
 ('Introduction to HTML'),
 ('CSS Fundamentals'),
 ('JavaScript Basics');
-```
+``
 
 #### Create leaderboard table
 ```bash
